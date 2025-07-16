@@ -22,7 +22,7 @@ The page serves as an introduction to my profile, including my name, a subtitle,
 - Styled with custom fonts and spacing adjustments.
 
 ## Project Goal
-To demonstrate my ability to create and customize simple UI projects using AI tools, while applying basic frontend skills (HTML & CSS).
+To demonstrate my ability to create and customize simple UI projects using AI tools, while applying basic frontend skills of (HTML & CSS).
 
 ## Repository
 [GitHub Repository Link](https://github.com/gracemugeche/gomycode-AI-vibe-coding-checkpoint.git)
